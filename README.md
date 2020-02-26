@@ -34,9 +34,23 @@ exit
 
 3. `rustc --version` => `rustc 1.41.0 (5e1a79984 2020-01-27)`
 
-### Run
+### Run Hello
 
 1. `rustc hello.rs --out-dir builds/`
 2. `cd builds/ && ./hello`
 3. Happy ^_^
 4. But this is not serious, soon it will be so...
+
+### Run Hello Actix
+
+1. `cargo run`
+2. visit `localhost:8088` and `localhost:8088/again`
+3. `cargo build --target-dir ../builds/ --release`
+4. `cd builds/release  && ./hello_actix`
+
+### How IDE use?
+
+You can use the IntelliJ family IDEs such as PyHarm, GoLand, PHPStorm & etc. 
+Just install the appropriate plugin for Rust, and you can also install a special color plugin:
+
+IntelliJ Rust: `https://intellij-rust.github.io/docs/quick-start.html`

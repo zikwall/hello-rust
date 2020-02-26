@@ -1,3 +1,6 @@
 .idea
 builds/*
 !builds/.getkeep
+
+# actix
+/hello_actix/target
