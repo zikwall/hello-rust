@@ -37,6 +37,6 @@ exit
 ### Run
 
 1. `rustc hello.rs --out-dir builds/`
-2. 'cd builds/ && ./hello'
+2. `cd builds/ && ./hello`
 3. Happy ^_^
 4. But this is not serious, soon it will be so...
