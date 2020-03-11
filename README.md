@@ -48,6 +48,11 @@ exit
 3. `cargo build --target-dir ../builds/ --release`
 4. `cd builds/release  && ./hello_actix`
 
+### Guess Game
+
+1. `cd guessing_game/ && cargo run`
+2. Good luck
+
 ### How IDE use?
 
 You can use the IntelliJ family IDEs such as PyHarm, GoLand, PHPStorm & etc. 
