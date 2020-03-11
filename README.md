@@ -55,7 +55,7 @@ exit
 
 ### How IDE use?
 
-You can use the IntelliJ family IDEs such as PyHarm, GoLand, PHPStorm & etc. 
+You can use the IntellIJ family IDEs such as PyCharm, GoLand, PHPStorm & etc. 
 Just install the appropriate plugin for Rust, and you can also install a special color plugin:
 
 IntelliJ Rust: `https://intellij-rust.github.io/docs/quick-start.html`
